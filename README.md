@@ -89,5 +89,5 @@ This project successfully demonstrates how *Linear Regression* can be used to pr
 For any queries or collaborations, feel free to connect:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
-- **Interact With the Streamlit Web App Here:** PrimeNest Properties Price Prediction Project[http://localhost:8504/]
+- **Interact With the Streamlit Web App Here:** PrimeNest Properties Price Prediction Project(http://localhost:8504/)
 
