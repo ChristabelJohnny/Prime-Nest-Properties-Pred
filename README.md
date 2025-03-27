@@ -53,7 +53,7 @@ The model was built using *Linear Regression* due to its simplicity and effectiv
 The model achieved **100% accuracy**, meaning it perfectly predicts house prices on the given dataset. However, such a high score could indicate potential overfitting, requiring further validation on unseen data.
 
 ## Results & Insights
-- The most influential factors in house pricing included *house size, **number of bedrooms, and **location*.
+- The most influential factors in house pricing included *house size, **number of bedrooms**, and  **location**.
 - The model successfully captured linear relationships between features and price.
 - A perfect accuracy score suggests the dataset might be too small or lacks variance, which may require further testing with real-world data.
 
@@ -89,5 +89,5 @@ This project successfully demonstrates how *Linear Regression* can be used to pr
 For any queries or collaborations, feel free to connect:
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
-- **Interact With the Streamlit Web App Here:** PrimeNest Properties Price Prediction Project(http://localhost:8504/)
+- **Interact With the Streamlit Web App Here:** (PrimeNest Properties Price Prediction Projecthttp://localhost:8504/)
 
